@@ -13,4 +13,4 @@ The Variant Workbench on CAVATICA fulfills the need of rapid hypothesis testing 
 
 ## Cloud Credits
 Kids First is offering cloud credits to cover the cost of your analysis. Apply here: [https://kidsfirstdrc.org/news/kids_first-cloud_credits](https://kidsfirstdrc.org/news/kids_first-cloud_credits) 
-[cloud credits](!https://raw.githubusercontent.com/jared-rozowsky/variant-workbench-migration/main/Cloud%20Credits.png)
+![cloud credits](https://raw.githubusercontent.com/jared-rozowsky/variant-workbench-migration/main/Cloud%20Credits.png)
