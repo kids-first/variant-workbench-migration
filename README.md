@@ -8,7 +8,7 @@ The Variant Workbench on CAVATICA fulfills the need of rapid hypothesis testing 
 
 ## References
 
-[A set of notebooks have been created](https://cavatica.sbgenomics.com/u/jared.rozowsky/ashg-variant-workbench/analysis/cruncher/variant-workbench-starter-kit) that detail how to initialize a cluster, load files, and perform queries. Some additional details on the environment can be found [here](https://docs.cavatica.org/docs/about-libraries-in-a-data-cruncher-analysis). See the [VWB github](https://github.com/kids-first/variant-workbench-migration) for additional documentation. A list of tables and the columns within are provided in the Reference document. A quick reference guide that maps search functions on the Variant tab of the portal to queries in the VWB is also provided. 
+[A set of notebooks have been created](https://cavatica.sbgenomics.com/u/jared.rozowsky/ashg-variant-workbench/analysis/cruncher/variant-workbench-starter-kit) that detail how to initialize a cluster, load files, and perform queries. Some additional details on the environment can be found [here](https://docs.cavatica.org/docs/about-libraries-in-a-data-cruncher-analysis). See the [VWB github](https://github.com/kids-first/variant-workbench-migration) for additional documentation. A list of tables and the columns within are provided in the [Reference document](https://github.com/kids-first/variant-workbench-migration/blob/main/References.docx). A quick reference guide that [maps search functions on the Variant tab of the portal to queries in the VWB](https://github.com/kids-first/variant-workbench-migration/blob/main/KFDRP-Portal-to-VWB.xlsx) is also provided. 
 
 
 ## Cloud Credits
